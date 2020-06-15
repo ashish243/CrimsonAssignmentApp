@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CrimsonApp</string>
+    <string name="search_activity">Search Movie</string>
+    <string name="movie_detail">Movie Detail</string>
+    <string name="no_results">No  matehing results ........😓</string>
+    <string name="check_internet">Please check your internet connection. \n    click retry!!!</string>
+    <string name="error_message"> No movie found for %1$s</string>
+    <string name="type_movie">movie</string>
+    <string name="type_serise">serises</string>
+    <string name="type_episode">episode</string>
+    <string name="search_for_movie">search for movie</string>
+    <string name="api_key"></string>
+</resources>
